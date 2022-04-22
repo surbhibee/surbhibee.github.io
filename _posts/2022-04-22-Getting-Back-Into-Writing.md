@@ -1,0 +1,16 @@
+---
+title: "Getting back into writing"
+date: 2022-04-22
+---
+
+I set up a blog page in November with the hope that I will get back into a consistent writing practice, which has been entirely missing from my life since leaving college. 
+
+Alas, life, as it does, has happened and six months have passed. Today's "return to the blog" is brought to you by the existential dread at the airport. The kind that inevitably plagues all 30-90 minute intervals between getting through security and starting to board. 
+
+The last few years since graduating from college have involved a lot of thinking, advice-taking, and advice-giving. I feel like I have grown significantly as a person between the pandemic, starting a job, quitting said job, and generally ruminating a lot. I have been journalling intermittently over the last three years but feel like I don't have a record to reflect on my less private thoughts -- the ones that have informed career and lifestyle switches and generally taken up my non-anxious thinking time. 
+This "blog" is an attempt to amend that. As of now, I don't plan on linking it extensively so if you are a person reading this who is not me, congratulations on travelling down several links after Googling my name. 
+
+Like most people I have perfectionist tendencies when it comes to putting my writing out in the world. A lot of that is informed by experiences in Yale writing classes, where the bar always felt like it was near Pluto and no amount of revision was ever enough. This perfectionism is why I haven't been able to build momentum on these pursuits in the past. So I want to lay out some ground rules for myself and set expectations for you: 
+- **Most posts will be short**: Think more [Kottke](https://kottke.org/) than [Wait But Why](https://waitbutwhy.com/). Median post length will be 300-500 words and I will likely split up longer pieces
+* **Topics will be eclectic**: For a long time I used to scoff at advice and self-help type pieces. They failed to meet my "standards" of intellectual rigor -- after all, we all lived life, what's so novel about that? Like many unhelpful views I unwittingly picked up from academia, I have begun to question this one. Advice-like columns and musings like [80,000 Hours](https://80000hours.org/), [Ben Kuhn](https://www.benkuhn.net/), [Farnam Street](https://fs.blog/) have helped me become (slightly) better at adulting and work-life. Topics on this blog will encompass anything from a random fact about the subway that caught my fancy, to my (evolving) personal knowledge management system.
+* **Mildly strong opinions, weakly held**: Related to the last point, I expect to write about things I _frankly_ don't know much about. I tend to aspire to expertise on topics before feeling comfortable sharing my (tentative) views about them in public fora. Needless to say, I am not an expert (and will likely never be) on much. Since college, I have also begun to admire people who are able to work with uncertainty and continue evolving their beliefs about a range of topics, a skill set that feels more useful for the non-academic world. And so, no post here will be a permanent or completely "true" reflection of my beliefs. It will be a snapshot of my thinking at a point in time and will hopefully continue evolving. 
