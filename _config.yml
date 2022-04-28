@@ -10,4 +10,4 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 plugins:
   - jekyll-remote-theme
   
-remote_theme: ngzhio/jekyll-theme-hamilton
+remote_theme: oinam/oinam-jekyll
