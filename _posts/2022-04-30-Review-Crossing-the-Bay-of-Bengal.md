@@ -1,7 +1,8 @@
 ---
 title: "Review: Crossing the Bay of Bengal, Sunil Amrith"
-date; 2022-04-30
+date: 2022-04-30
 ---
+
 I picked up **Crossing the Bay of Bengal: The Furies of Nature and the Fortunes of Migrants** in a second hand bookstore in New York City last year. I knew little about Sunil Amrith’s work beyond the facts that he studied maritime history and had recently moved to Yale’s history department, sufficient to pique my interest. I am so grateful to impulse book shopper Surbhi for this decision. 
 
 This is a fantastic history of migration across the Bay of Bengal and the multiple centuries of documented history (and likely millennia more we will never learn of) that have connected the countries that inhabit its rim. Amrith’s writing is imminently readable and profound. He interweaves individuals’ anecdotes about love and grief with broader observations on the creation of the modern nation state and the changing role of the Bay of Bengal in its inhabitants’ imaginations. I’ve always been fascinated by the Indian diaspora and especially communities in non-Western countries (motivated in no small part by Vinay Lal’s great course on [The Global Indian Diaspora](https://www.youtube.com/playlist?list=PLy3KRgc0HE8B_bhlffm8DfhVT35teOefE)). Amrith deftly traces long histories of circular migration and settlement across the countries that surround the Bay. Much of this content was unfamiliar if not entirely new to me (Tamil laborers built the Thai railway, there was a large exodus of Indians from Burma during WWII etc.). It’s easy to think of globalization and international migration as a 20th century phenomenon but, as Amrith lays out with poignant stories, people have been traversing “borders” and moving to unknown lands for centuries. 
